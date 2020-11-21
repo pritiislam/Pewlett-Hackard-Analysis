@@ -6,8 +6,8 @@ The purpose of this analysis is to determine the number of retiring employees pe
 ## Results: 
 * The company has a very large population of employees who are retirement-ready
 * The company has a fairly small population of employees who are eligible to participate in the mentorship program
-* The retirement-ready to mentorship eligible ratio is not idea (1:1) 
-* Therefore, the major takeaway is that the company needs to hire more entry level employees with the intention to enroll them into the mentorship program, so the company can strengthen their workforce and be ready with a succession plan as their veteran employees begin to retire. 
+* The retirement-ready to mentorship eligible ratio is not ideal (1:1) 
+* The major takeaway is that the company needs to hire more entry level employees with the intention to enroll them into the mentorship program. This will allow the company to strengthen their workforce and be ready with a succession plan as their veteran employees begin to retire. 
 
 ## Summary:
 * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
